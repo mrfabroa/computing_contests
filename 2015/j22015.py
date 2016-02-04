@@ -29,5 +29,5 @@ elif happy_count > sad_count:
 elif sad_count > happy_count:
     print "sad"
 else:
-    print "unsure" 
+    print "unsure"
 
