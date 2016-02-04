@@ -2,6 +2,7 @@ __author__ = 'eric'
 
 import sys
 
+# get angles
 val1 = int(sys.stdin.readline())
 val2 = int(sys.stdin.readline())
 val3 = int(sys.stdin.readline())
